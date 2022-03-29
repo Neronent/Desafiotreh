@@ -3,6 +3,10 @@ package com.example.desafiotreh
 import com.example.desafiotreh.model.*
 import kotlin.math.PI
 
+// Este trabajo fue elaborado por Josué Ortiz y Félix Mondragón
+// Disculpe que no haya podido ir profe (Josué Ortiz), pero ayer un alacrán me picó, fui a emergencias y ya fui tratado
+// Sin embargo sigo entumido por las picaduras del alacrán y por el tratamiento, muchas gracias por su atención
+
 fun main(){
 
     var opc:Int
