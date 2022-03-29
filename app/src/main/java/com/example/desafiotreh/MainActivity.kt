@@ -388,6 +388,21 @@ fun main(){
 
         }
 
+        23 -> {
+            var tipo_planeta:
+            print("Ingrese el nombre del planeta\n-->")
+            var nombre:String = readLine()!!.toString()
+            print("Ingrese la cantidad de satelites\n-->")
+            var satelites:Int = readLine()!!.toInt()
+            print("Ingrese la masa en kg\n-->")
+            var masa:Double = readLine()!!.toDouble()
+            print("Ingrese el volumen en kg\n-->")
+            var volumen:Double = readLine()!!.toDouble()
+            print("Ingrese la distancia media al sol en millones de kms\n-->")
+            var distancia:Int = readLine()!!.toInt()
+            print("Ingrese el tipo de planeta")
+        }
+
         else -> println("Ingrese un valor de 1 a 22")
 
     }
